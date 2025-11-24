@@ -1,0 +1,11 @@
+Consent for Penetration Test - IP & Header Logging
+
+I, [tester name], give explicit consent to [company/tester] to collect my IP address, browser headers, and approximate geolocation (city-level) for the purpose of this authorized security test performed on [date-range].
+
+I understand:
+- Data collected: IP address, User-Agent, timestamp, referrer, approximate geolocation derived from IP.
+- Purpose: Security testing, log correlation, attack simulation.
+- Retention: Data will be retained for [LOG_RETENTION_DAYS] days unless otherwise requested.
+- Deletion: I can request deletion by contacting [ADMIN_EMAIL].
+
+Signed: _______________________   Date: _______________
